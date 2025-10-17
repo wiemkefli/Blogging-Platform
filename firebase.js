@@ -4,7 +4,7 @@ const { getAuth } = require('firebase/auth');
 
 // Centralized Firebase initialization for server-side usage
 const firebaseConfig = {
-  apiKey: "AIzaSyDTERFn6NU3Mu5vc8j5Prj3fqUuSc8C3qk",
+  apiKey: "",
   authDomain: "blog-27d94.firebaseapp.com",
   projectId: "blog-27d94",
   storageBucket: "blog-27d94.firebasestorage.app",
